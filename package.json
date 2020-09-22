@@ -1,0 +1,25 @@
+{
+  "name": "lsscoj-judger",
+  "version": "1.0.0",
+  "description": "Judger for LSSCOJ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lssc/LSSCOJ-judger.git"
+  },
+  "keywords": [
+    "lssc",
+    "online-judge",
+    "sandbox"
+  ],
+  "author": "David Day",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lssc/LSSCOJ-judger/issues"
+  },
+  "homepage": "https://github.com/lssc/LSSCOJ-judger#readme"
+}
