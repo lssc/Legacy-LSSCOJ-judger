@@ -2,9 +2,9 @@
   "name": "lsscoj-judger",
   "version": "1.0.0",
   "description": "Judger for LSSCOJ",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/lssc/LSSCOJ-judger/issues"
   },
-  "homepage": "https://github.com/lssc/LSSCOJ-judger#readme"
+  "homepage": "https://github.com/lssc/LSSCOJ-judger#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
 }
